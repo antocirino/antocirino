@@ -35,7 +35,7 @@
 ---
 
 📱 Discover [**Napolita**](https://napolita.it/app/download), the app I developed – available on the **App Store** and **Google Play**.  
-👉 Learn more about it here: [antoniocirino.com/napolita](https://www.antoniocirino.com/napolita.html)
+👉 Learn more about it here: [antoniocirino.com/projects/napolita](https://www.antoniocirino.com/projects/napolita)
 
 ---
 
